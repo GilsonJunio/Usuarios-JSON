@@ -5,14 +5,14 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	}, {
 		"nome":"maria",
 		"senha":"123",
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	},
 	{
 		"nome":"denise",
@@ -20,7 +20,7 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	},
 	{
 		"nome":"daniela",
@@ -28,7 +28,7 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	},
 	{
 		"nome":"gabriel",
@@ -36,7 +36,7 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	},
 	{
 		"nome":"gabriela",
@@ -44,7 +44,7 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	},
 	{
 		"nome":"marisa",
@@ -52,7 +52,7 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	},
 	{
 		"nome":"maria",
@@ -60,7 +60,7 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	},
 	{
 		"nome":"joana",
@@ -68,7 +68,7 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	},
 	{
 		"nome":"davi",
@@ -76,7 +76,7 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	},
 	{
 		"nome":"marcelo",
@@ -84,7 +84,7 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	},
 	{
 		"nome":"marcela",
@@ -92,7 +92,7 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	},
 	{
 		"nome":"paulo",
@@ -100,7 +100,7 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	},
 	{
 		"nome":"victor",
@@ -108,7 +108,7 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	},
 	{
 		"nome":"felipe",
@@ -116,7 +116,7 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	},
 	{
 		"nome":"josé",
@@ -124,7 +124,7 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	},
 	{
 		"nome":"mateus",
@@ -132,7 +132,7 @@
 		"cpf":"",
 		"idade":"",
 		"cidade":"",
-		"foto":"",
+		"foto":""
 	}
 ]
 }
